@@ -17,6 +17,18 @@ redirect_from:
 
 （3）人机交互：主要包括助老助残等假肢设计及算法研究，利用肌电、脑电等信息辅助残障人士日常起居。
 
+本年度招生
+
+课题组团队来自计算机科学、人工智能、机械和自动化等各个专业。科研项目充足，方向聚焦具身智能、机器人等国际前沿，产学研合作密切。 有博士、硕士招生名额，欢迎交流。所在学院为人工智能学院，招生学科为博士：智能科学与技术、学硕：智能科学与技术、专硕：人工智能。
+
+博士：喜欢科研，乐于学术，踏实做事，和同学友好相处，有投入时间的愿力，内心驱动的同学欢迎加入。2024年秋-2025年春。
+
+硕士：保送、考研，2024-2025年招生，包括学硕、专硕。
+
+招生专业：
+
+计算机科学与技术、人工智能、机械工程、自动化、控制科学与工程、电子与信息等。
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
