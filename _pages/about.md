@@ -29,6 +29,10 @@ redirect_from:
 
 计算机科学与技术、人工智能、机械工程、自动化、控制科学与工程、电子与信息等。
 
+教师介绍：
+
+方斌，人工智能学院，“拔尖人才”教授，博士生导师，硕士生导师。近年来，研究团队承担国家科技部、国家自然基金、国际合作项目等项目共20余项。其中包括教育部装备预研联合基金“青年人才”项目、国家自然科学基金、军科委创新特区重点项目等国家级项目，及北京市科委“揭榜挂帅-仿人机器人灵巧末端”重点项目。作为项目骨干或主要研究人员参与了国家自然基金共融重点项目“人机共融多模态传感软体操作理论与应用”、科技部2030-“新一代人工智能”重大项目“自主智能体的灵巧精准操作学习与典型场景验证”、科技部国家重点研发计划机器人专项“面向服务和工业领域的实用多指灵巧手研制”、科技部国家重点研究计划机器人专项“机器人用智能六维力和触觉传感器关键技术及产业化”等。在Nature Communications、IEEE Trans. Robotics、Soft Robotics 等发表高水平 SCI 论文及ICRA等顶会论文上百篇（其中8篇入选IEEE期刊最受关注论文，1篇作为Soft Robotics期刊封面论文），其中高被引论文2篇。
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
