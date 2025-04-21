@@ -33,11 +33,11 @@ redirect_from:
 
 方斌，人工智能学院，“拔尖人才”教授，博士生导师，硕士生导师。近年来，研究团队承担国家科技部、国家自然基金、国际合作项目等项目共20余项。其中包括教育部装备预研联合基金“青年人才”项目、国家自然科学基金、军科委创新特区重点项目等国家级项目，及北京市科委“揭榜挂帅-仿人机器人灵巧末端”重点项目。作为项目骨干或主要研究人员参与了国家自然基金共融重点项目“人机共融多模态传感软体操作理论与应用”、科技部2030-“新一代人工智能”重大项目“自主智能体的灵巧精准操作学习与典型场景验证”、科技部国家重点研发计划机器人专项“面向服务和工业领域的实用多指灵巧手研制”、科技部国家重点研究计划机器人专项“机器人用智能六维力和触觉传感器关键技术及产业化”等。在Nature Communications、IEEE Trans. Robotics、Soft Robotics 等发表高水平 SCI 论文及ICRA等顶会论文上百篇（其中8篇入选IEEE期刊最受关注论文，1篇作为Soft Robotics期刊封面论文），其中高被引论文2篇。
 
-A data-driven personal website
+学术兼职
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+CAAI认知系统与信息处理专委会 秘书长
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+CAAI人工智能学会 第九届理事会理事
 
 Getting started
 ======
