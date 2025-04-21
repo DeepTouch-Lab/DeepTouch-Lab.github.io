@@ -11,7 +11,7 @@ redirect_from:
 
 主要研究内容包括：
 （1）机器人触觉感知系统：主要包括磁触觉传感器、视触觉传感器等触觉传感器的硬件与软件设计、标定算法开发。
-（2）机器人灵巧操作系统：主要包括融合触觉的机器人鲁棒控制，包括但不限于借助Imitative Learning、Reinforcement Learning和Large Language Model完成机器人的操作控制。
+（2）机器人灵巧操作系统：主要包括融合触觉的机器人鲁棒控制，包括但不限于借助Imitative Learning、Reinforcement Learning和Large Language Model等完成机器人的操作控制。
 （3）人机交互：主要包括助老助残等假肢设计及算法研究，利用肌电、脑电等信息辅助残障人士日常起居。
 
 A data-driven personal website
