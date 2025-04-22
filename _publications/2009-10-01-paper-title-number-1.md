@@ -1,14 +1,42 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /
+title: "About us"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+研究方向：具身智能、机器人触觉、人机交互、机器人灵巧操作、机器人大模型。
+
+主要研究内容包括：
+
+* 机器人触觉感知系统：主要包括磁触觉传感器、视触觉传感器等触觉传感器的硬件与软件设计、标定算法开发。
+
+* 机器人灵巧操作系统：主要包括融合触觉的机器人鲁棒控制，包括但不限于借助Imitative Learning、Reinforcement Learning和Large Language Model等完成机器人的操作控制。
+
+* 人机交互：主要包括助老助残等假肢设计及算法研究，利用肌电、脑电等信息辅助残障人士日常起居。
+
+<font color=RED> 本年度招生：</font>
+
+课题组团队来自计算机科学、人工智能、机械和自动化等各个专业。科研项目充足，方向聚焦具身智能、机器人等国际前沿，产学研合作密切。 有博士、硕士招生名额，欢迎交流。所在学院为人工智能学院，招生学科为博士：智能科学与技术、学硕：智能科学与技术、专硕：人工智能。
+
+* 博士：喜欢科研，乐于学术，踏实做事，和同学友好相处，有投入时间的愿力，内心驱动的同学欢迎加入。2024年秋-2025年春。
+
+* 硕士：保送、考研，2024-2025年招生，包括学硕、专硕。
+
+联系方式：fangbin1120@bupt.edu.cn
+
+<font color=RED> 招生专业： </font>
+
+计算机科学与技术、人工智能、机械工程、自动化、控制科学与工程、电子与信息等。
+
+<font color=RED> 教师介绍： </font>
+
+方斌，人工智能学院，“拔尖人才”教授，博士生导师，硕士生导师。近年来，研究团队承担国家科技部、国家自然基金、国际合作项目等项目共20余项。其中包括教育部装备预研联合基金“青年人才”项目、国家自然科学基金、军科委创新特区重点项目等国家级项目，及北京市科委“揭榜挂帅-仿人机器人灵巧末端”重点项目。作为项目骨干或主要研究人员参与了国家自然基金共融重点项目“人机共融多模态传感软体操作理论与应用”、科技部2030-“新一代人工智能”重大项目“自主智能体的灵巧精准操作学习与典型场景验证”、科技部国家重点研发计划机器人专项“面向服务和工业领域的实用多指灵巧手研制”、科技部国家重点研究计划机器人专项“机器人用智能六维力和触觉传感器关键技术及产业化”等。在Nature Communications、IEEE Trans. Robotics、Soft Robotics 等发表高水平 SCI 论文及ICRA等顶会论文上百篇（其中8篇入选IEEE期刊最受关注论文，1篇作为Soft Robotics期刊封面论文），其中高被引论文2篇。
+
+学术兼职
+======
+CAAI认知系统与信息处理专委会 秘书长
+
+CAAI人工智能学会 第九届理事会理事
