@@ -12,16 +12,16 @@ main:
     url: 
   
   - title: "Publications"
-    url: /publications/
+    url: publications/
 
   - title: "Research"
-    url: /researches/    
+    url: researches/    
 
   - title: "People"
-    url: /people/    
+    url: people/    
         
   - title: "Teaching"
-    url: /teaching/
+    url: teaching/
 
   - title: "Album相册"
-    url: /album相册/
+    url: album相册/
