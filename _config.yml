@@ -22,7 +22,7 @@ repository               : "DeepTouch-Lab/DeepTouch-Lab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "deeptouch.png"
   name             : "DeepTouch Lab"
   pronouns         : # example: "she/her"  
   bio              : "具身触觉感知系统、机器人操作系统、人机交互、机器人灵巧手与灵巧操作"
