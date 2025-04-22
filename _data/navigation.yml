@@ -18,7 +18,7 @@ main:
     url: /people/    
     
   - title: "Homepage"
-    url: /homepage/
+    url: 
         
   - title: "Teaching"
     url: /teaching/
