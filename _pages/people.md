@@ -17,7 +17,7 @@ author_profile: true
 <br>-- 机器人大模型
 <hr>
 <h2 id="PhD"><a href="#PhD" class="headerlink" title="PhD"></a> <strong> 博士研究生(PhD Candidate) </strong></h2><hr>
-<h3 id="夏子炜"><a href="#ziweixia" class="headerlink" title="ziweixia"></a>夏子炜</h3><img style="float: right;">
+<h3 id="夏子炜"><a href="#ziweixia" class="headerlink" title="ziweixia"></a>夏子炜</h3>
 <p>博士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -25,9 +25,10 @@ author_profile: true
 <br>
 <br>
 <hr>
+
 <h2 id="PostGraduates"><a href="#PostGraduates" class="headerlink" title="PostGraduates"></a> <strong> 硕士研究生(Postgraduates) </strong></h2><hr>
 
-<h3 id="王仕贤"><a href="#shixianwang" class="headerlink" title="shixianwang"></a>王仕贤</h3><img style="float: right;" src="images/wanghaoyu.jpg" width=180>
+<h3 id="王仕贤"><a href="#shixianwang" class="headerlink" title="shixianwang"></a>王仕贤</h3><img style="float: right;">
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
