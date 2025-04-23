@@ -16,7 +16,7 @@ redirect_from:
 ### 视触觉传感系列成果
 <img src="/images/VBTS.png" alt="VBTS">
 
-### 操作末端及智能操作
+### 操作末端及智能操作系列成果
 <img src="/images/hand.png" alt="hand">
 
 ### 穿戴交互操作系列成果
