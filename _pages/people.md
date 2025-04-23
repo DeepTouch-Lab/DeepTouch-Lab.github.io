@@ -25,6 +25,70 @@ author_profile: true
 <br>
 <br>
 <hr>
+<h3 id="陈子明"><a href="#zimingchen" class="headerlink" title="zimingchen"></a>陈子明</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+人机交互
+<br>
+<br>
+<hr>
+<h3 id="章诗昕"><a href="#shixinzhang" class="headerlink" title="shixinzhang"></a>章诗昕</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="胡江宇"><a href="#jiangyuhu" class="headerlink" title="jiangyuhu"></a>胡江宇</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+多模态表征
+<br>
+<br>
+<hr>
+<h3 id="李博澳"><a href="#boaoli" class="headerlink" title="boaoli"></a>李博澳</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+人机交互
+<br>
+<br>
+<hr>
+<h3 id="唐新杰"><a href="#xinjietang" class="headerlink" title="xinjietang"></a>唐新杰</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="范翰文"><a href="#hanwenfan" class="headerlink" title="hanwenfan"></a>范翰文</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+具身智能
+<br>
+<br>
+<hr>
+<h3 id="孙宇昊"><a href="#yuhaosun" class="headerlink" title="yuhaosun"></a>孙宇昊</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉仿真及操作
+<br>
+<br>
+<hr>
+<h3 id="艾梓宸"><a href="#zichenai" class="headerlink" title="zichenai"></a>艾梓宸</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+多模态表征
+<br>
+<br>
+<hr>
 
 <h2 id="PostGraduates"><a href="#PostGraduates" class="headerlink" title="PostGraduates"></a> <strong> 硕士研究生(Postgraduates) </strong></h2><hr>
 
@@ -36,5 +100,36 @@ author_profile: true
 <br>
 <br>
 <hr>
-
+<h3 id="马滋杨"><a href="#ziyangma" class="headerlink" title="ziyangma"></a>马滋杨</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="杨少博"><a href="#shaoboyang" class="headerlink" title="shaoboyang"></a>杨少博</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作大模型
+<br>
+<br>
+<hr>
+<h3 id="杜佳桐"><a href="#jiatongdu" class="headerlink" title="jiatongdu"></a>杜佳桐</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+三维重建
+<br>
+<br>
+<hr>
+<h3 id="李文状"><a href="#wenzhuangli" class="headerlink" title="wenzhuangli"></a>李文状</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉仿真及操作
+<br>
+<br>
+<hr>
 
