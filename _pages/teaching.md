@@ -3,8 +3,8 @@ title: "Teaching"
 collection: teaching
 type: "Undergraduate & Graduate course"
 permalink: /teaching/
-venue: "Beijing University of Posts and Telecommunication, Robotics"
-date: 2021-01-01
+venue: "Beijing University of Posts and Telecommunication"
+date: 2025-04-23
 location: "Beijing, China"
 ---
 ## 主讲课程
