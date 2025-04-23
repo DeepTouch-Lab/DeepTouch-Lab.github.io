@@ -25,8 +25,7 @@ redirect_from:
 论文
 ======
 
-2025
-======
+### 2025
 * Sun Y, Cheng N, Zhang S, Fang B, et al. Tactile data generation and applications based on visuo-tactile sensors: A review[J]. Information Fusion, 2025: 103162.
 * Feng R, Hu J, Xia W, Fang B, et al. AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors[J]. arXiv preprint arXiv:2502.12191, 2025.(ICLR2025)
 * Chen Z, He Y, Li B, Fang B, et al. A Robotic Prosthetic Hand for Computer Mouse Operations[J]. Advanced Intelligent Systems, 2025: 2500126.
@@ -35,8 +34,7 @@ redirect_from:
 * Zhang S, Yang Y, Sun Y, Fang B, et al. Artificial Skin Based on Visuo‐Tactile Sensing for 3D Shape Reconstruction: Material, Method, and Evaluation[J]. Advanced Functional Materials, 2025, 35(1): 2411686.
 * Fang B, Zhao J, Liu N, et al. Force Measurement Technology of Vision‐Based Tactile Sensor[J]. Advanced Intelligent Systems, 2025, 7(1): 2400290.
 
-2024
-======
+### 2024
 * Zhang S, Sun Y, Sun F, Fang B, et al. PFS 1.0: A development tool applied to vision-based tactile sensor process formulation and fabrication[J]. Sensors and Actuators A: Physical, 2024, 367: 115090.
 * Zhang S, Yang Y, Sun F, Fang B, et al. A compact visuo-tactile robotic skin for micron-level tactile perception[J]. IEEE Sensors Journal, 2024.
 * Sun F, Liu N, Wang X, Fang B, et al. Digital-twin-assisted skill learning for 3C assembly tasks[J]. IEEE Transactions on Cybernetics, 2024.
