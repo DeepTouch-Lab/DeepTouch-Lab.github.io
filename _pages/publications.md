@@ -10,6 +10,9 @@ redirect_from:
 研究成果
 ======
 
+
+<img src="/images/soft-contact.png" alt="soft-contact">
+
 2025
 ======
 * Sun Y, Cheng N, Zhang S, Fang B, et al. Tactile data generation and applications based on visuo-tactile sensors: A review[J]. Information Fusion, 2025: 103162.
