@@ -10,8 +10,20 @@ redirect_from:
 研究成果
 ======
 
-
+### 柔性触觉和灵巧手系列成果
 <img src="/images/soft-contact.png" alt="soft-contact">
+
+### 视触觉传感系列成果
+<img src="/images/VBTS.png" alt="VBTS">
+
+### 操作末端及智能操作
+<img src="/images/hand.png" alt="hand">
+
+### 穿戴交互操作系列成果
+<img src="/images/interaction.png" alt="interaction">
+
+论文
+======
 
 2025
 ======
