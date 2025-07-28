@@ -89,6 +89,30 @@ author_profile: true
 <br>
 <br>
 <hr>
+<h3 id="马滋杨"><a href="#ziyangma" class="headerlink" title="ziyangma"></a>马滋杨</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="杨少博"><a href="#shaoboyang" class="headerlink" title="shaoboyang"></a>杨少博</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作大模型
+<br>
+<br>
+<hr>
+<h3 id="姜天涯"><a href="#tianyajiang" class="headerlink" title="shaoboyang"></a>姜天涯</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人磁触觉感知及操作
+<br>
+<br>
+<hr>
 
 <h2 id="PostGraduates"><a href="#PostGraduates" class="headerlink" title="PostGraduates"></a> <strong> 硕士研究生(Postgraduates) </strong></h2><hr>
 
@@ -97,22 +121,6 @@ author_profile: true
 <strong>研究方向(Research Interests):</strong>
 <br>
 机器人灵巧手及灵巧操作
-<br>
-<br>
-<hr>
-<h3 id="马滋杨"><a href="#ziyangma" class="headerlink" title="ziyangma"></a>马滋杨</h3>
-<p>硕士研究生<br> </p>
-<strong>研究方向(Research Interests):</strong>
-<br>
-机器人视触觉感知及操作
-<br>
-<br>
-<hr>
-<h3 id="杨少博"><a href="#shaoboyang" class="headerlink" title="shaoboyang"></a>杨少博</h3>
-<p>硕士研究生<br> </p>
-<strong>研究方向(Research Interests):</strong>
-<br>
-机器人操作大模型
 <br>
 <br>
 <hr>
@@ -132,4 +140,19 @@ author_profile: true
 <br>
 <br>
 <hr>
-
+<h3 id="胡杨"><a href="#yanghu" class="headerlink" title="wenzhuangli"></a>胡杨</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="王程锦"><a href="#chengjinwang" class="headerlink" title="wenzhuangli"></a>王程锦</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
