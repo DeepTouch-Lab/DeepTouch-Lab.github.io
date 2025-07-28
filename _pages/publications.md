@@ -26,6 +26,9 @@ redirect_from:
 ======
 
 ### 2025
+* He Y, Yan D, Jin K, Fang B, et al. A Robotic Hand with Soft Transmission Systems for Automated Operations of Computer Mouse[J]. Advanced Intelligent Systems, 2025: 2400966.
+* Sun Y, Zhang S, Chen Z, Fang B, et al. Soft contact simulation and manipulation learning of deformable objects with vision-based tactile sensor[J]. IEEE Transactions on Automation Science and Engineering, 2025.
+* Chen Z, Li B, Min H, Fang B, et al. Tactile Sensing Enables Shared Control of Prosthetic Hand with Multi-Stage Grasping and Force Level Switching Functions[J]. Tsinghua Science and Technology, 2025.
 * Sun Y, Cheng N, Zhang S, Fang B, et al. Tactile data generation and applications based on visuo-tactile sensors: A review[J]. Information Fusion, 2025: 103162.
 * Feng R, Hu J, Xia W, Fang B, et al. AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors[J]. arXiv preprint arXiv:2502.12191, 2025.(ICLR2025)
 * Chen Z, He Y, Li B, Fang B, et al. A Robotic Prosthetic Hand for Computer Mouse Operations[J]. Advanced Intelligent Systems, 2025: 2500126.
