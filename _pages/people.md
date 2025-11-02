@@ -113,6 +113,14 @@ author_profile: true
 <br>
 <br>
 <hr>
+<h3 id="袁雪莲"><a href="#xuelianyuan" class="headerlink" title="shaoboyang"></a>袁雪莲</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人遥操作
+<br>
+<br>
+<hr>
 
 <h2 id="PostGraduates"><a href="#PostGraduates" class="headerlink" title="PostGraduates"></a> <strong> 硕士研究生(Postgraduates) </strong></h2><hr>
 
@@ -160,7 +168,31 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-机器人视触觉感知及操作
+人机交互
+<br>
+<br>
+<hr>
+<h3 id="王俊沣"><a href="#junfengwang" class="headerlink" title="wenzhuangli"></a>王俊沣</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作
+<br>
+<br>
+<hr>
+<h3 id="闫俊"><a href="#junyan" class="headerlink" title="wenzhuangli"></a>闫俊</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作
+<br>
+<br>
+<hr>
+<h3 id="周亮清"><a href="#liangqingzhou" class="headerlink" title="wenzhuangli"></a>周亮清</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人遥操作
 <br>
 <br>
 <hr>
