@@ -172,7 +172,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="王俊沣"><a href="#junfengwang" class="headerlink" title="wenzhuangli"></a>王俊沣</h3>
+<h3 id="王浚沣"><a href="#junfengwang" class="headerlink" title="wenzhuangli"></a>王俊沣</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
