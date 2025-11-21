@@ -156,7 +156,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="胡杨"><a href="#yanghu" class="headerlink" title="wenzhuangli"></a>胡杨</h3>
+<h3 id="胡杨"><a href="#yanghu" class="headerlink" title="yanghu"></a>胡杨</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -164,7 +164,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="王程锦"><a href="#chengjinwang" class="headerlink" title="wenzhuangli"></a>王程锦</h3>
+<h3 id="王程锦"><a href="#chengjinwang" class="headerlink" title="chengjingwang"></a>王程锦</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -172,7 +172,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="王浚沣"><a href="#junfengwang" class="headerlink" title="wenzhuangli"></a>王浚沣</h3>
+<h3 id="王浚沣"><a href="#junfengwang" class="headerlink" title="junfengwang"></a>王浚沣</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -180,7 +180,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="闫俊"><a href="#junyan" class="headerlink" title="wenzhuangli"></a>闫俊</h3>
+<h3 id="闫俊"><a href="#junyan" class="headerlink" title="junyan"></a>闫俊</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -188,7 +188,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="周亮清"><a href="#liangqingzhou" class="headerlink" title="wenzhuangli"></a>周亮清</h3>
+<h3 id="周亮清"><a href="#liangqingzhou" class="headerlink" title="liangqingzhou"></a>周亮清</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
