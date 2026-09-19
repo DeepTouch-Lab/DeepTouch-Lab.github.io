@@ -25,6 +25,13 @@ redirect_from:
 论文
 ======
 
+### 2026
+* Ma Z, Sun Y, Ai Z, Fang B*, et al. Robust Slip Detection and Material Classification via Spatiotemporal Transformers on a Uniformly-Illuminated Visuo-Tactile Sensor[J]. arXiv preprint arXiv:2608.24162, 2026. (IROS 2026)
+* Yang L, Fang B*. TransTac: Visuo-Tactile Modality Transition via Ultraviolet-Encoded Transparent Elastomers[J]. arXiv preprint arXiv:2606.04477, 2026.(ICRA 2026)
+* Li B, Wu S, You T, Fang B*, et al. Dynamic manipulation skill learning for tactile myoelectric prosthetic hands in tool handling[J]. Cyborg and Bionic Systems, 2026, 7: 0572.
+* Sun Y, Zhang S, Li W, Fang B*, et al. Tacchi 2.0: A low computational cost and comprehensive dynamic contact simulator for vision-based tactile sensors[J]. Sensors and Actuators A: Physical, 2026: 117856.
+* Li D, Jin Y, Sun Y, Fang B*, et al. What foundation models can bring for robot learning in manipulation: A survey[J]. The International Journal of Robotics Research, 2026, 45(7): 1091-1142.
+
 ### 2025
 * He Y, Yan D, Jin K, Fang B*, et al. A Robotic Hand with Soft Transmission Systems for Automated Operations of Computer Mouse[J]. Advanced Intelligent Systems, 2025: 2400966.
 * Sun Y, Zhang S, Chen Z, Fang B*, et al. Soft contact simulation and manipulation learning of deformable objects with vision-based tactile sensor[J]. IEEE Transactions on Automation Science and Engineering, 2025.
