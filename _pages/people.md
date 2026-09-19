@@ -18,7 +18,7 @@ author_profile: true
 <hr>
 <h2 id="PhD"><a href="#PhD" class="headerlink" title="PhD"></a> <strong> 博士研究生(PhD Candidate) </strong></h2><hr>
 <h3 id="夏子炜"><a href="#ziweixia" class="headerlink" title="ziweixia"></a>夏子炜</h3>
-<p>博士研究生<br> </p>
+<p>博士后<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 机器人磁触觉感知及操作
@@ -26,7 +26,7 @@ author_profile: true
 <br>
 <hr>
 <h3 id="陈子明"><a href="#zimingchen" class="headerlink" title="zimingchen"></a>陈子明</h3>
-<p>博士研究生<br> </p>
+<p>博士后<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 人机交互
@@ -34,10 +34,18 @@ author_profile: true
 <br>
 <hr>
 <h3 id="章诗昕"><a href="#shixinzhang" class="headerlink" title="shixinzhang"></a>章诗昕</h3>
-<p>博士研究生<br> </p>
+<p>博士后<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="周昊天"><a href="#haotianzhou" class="headerlink" title="haotianzhou"></a>周昊天</h3>
+<p>博士后<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作
 <br>
 <br>
 <hr>
@@ -105,7 +113,7 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="姜天涯"><a href="#tianyajiang" class="headerlink" title="shaoboyang"></a>姜天涯</h3>
+<h3 id="姜天涯"><a href="#tianyajiang" class="headerlink" title="tianyajiang"></a>姜天涯</h3>
 <p>博士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
@@ -113,11 +121,43 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="袁雪莲"><a href="#xuelianyuan" class="headerlink" title="shaoboyang"></a>袁雪莲</h3>
+<h3 id="袁雪莲"><a href="#xuelianyuan" class="headerlink" title="xuelianyuan"></a>袁雪莲</h3>
 <p>博士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
 机器人遥操作
+<br>
+<br>
+<hr>
+<h3 id="胡杨"><a href="#yanghu" class="headerlink" title="yanghu"></a>胡杨</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人视触觉感知及操作
+<br>
+<br>
+<hr>
+<h3 id="王仕贤"><a href="#shixianwang" class="headerlink" title="shixianwang"></a>王仕贤</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人灵巧手及灵巧操作
+<br>
+<br>
+<hr>
+<h3 id="刘烨"><a href="#yeliu" class="headerlink" title="yeliu"></a>刘烨</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+肌电与假肢操作
+<br>
+<br>
+<hr>
+<h3 id="阮敏驰"><a href="#minchiruan" class="headerlink" title="minchiruan"></a>阮敏驰</h3>
+<p>博士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作大模型
 <br>
 <br>
 <hr>
@@ -129,14 +169,6 @@ author_profile: true
 <strong>研究方向(Research Interests):</strong>
 <br>
 机器人双臂操作与大模型
-<br>
-<br>
-<hr>
-<h3 id="王仕贤"><a href="#shixianwang" class="headerlink" title="shixianwang"></a>王仕贤</h3>
-<p>硕士研究生<br> </p>
-<strong>研究方向(Research Interests):</strong>
-<br>
-机器人灵巧手及灵巧操作
 <br>
 <br>
 <hr>
@@ -156,14 +188,6 @@ author_profile: true
 <br>
 <br>
 <hr>
-<h3 id="胡杨"><a href="#yanghu" class="headerlink" title="yanghu"></a>胡杨</h3>
-<p>硕士研究生<br> </p>
-<strong>研究方向(Research Interests):</strong>
-<br>
-机器人视触觉感知及操作
-<br>
-<br>
-<hr>
 <h3 id="王程锦"><a href="#chengjinwang" class="headerlink" title="chengjingwang"></a>王程锦</h3>
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
@@ -176,7 +200,7 @@ author_profile: true
 <p>硕士研究生<br> </p>
 <strong>研究方向(Research Interests):</strong>
 <br>
-机器人操作
+肌电与假肢操作
 <br>
 <br>
 <hr>
@@ -193,6 +217,14 @@ author_profile: true
 <strong>研究方向(Research Interests):</strong>
 <br>
 机器人遥操作
+<br>
+<br>
+<hr>
+<h3 id="陶冠林"><a href="#guanlingtao" class="headerlink" title="liangqingzhou"></a>陶冠林</h3>
+<p>硕士研究生<br> </p>
+<strong>研究方向(Research Interests):</strong>
+<br>
+机器人操作
 <br>
 <br>
 <hr>
